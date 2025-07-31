@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🚀 My Dashboard
 
-<!--
-**whocares05/whocares05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A beautiful, responsive, and customizable dashboard built with modern web technologies. Visualize data, control systems, and track performance — all in one place.
 
-Here are some ideas to get you started:
+![Dashboard Preview](./assets/dashboard-preview.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Features
+
+- 📊 Interactive charts and graphs
+- 🧠 AI/ML model integration
+- ⚙️ Real-time updates
+- 🔐 Secure authentication (JWT/OAuth)
+- 🌈 Dark/Light mode toggle
+- 📁 File upload and processing
+- 🧰 Modular tool system
+
+---
+
+## 📸 Screenshots
+
+| Dashboard | Analytics | Settings |
+|----------|-----------|----------|
+| ![](./assets/screen1.png) | ![](./assets/screen2.png) | ![](./assets/screen3.png) |
+
+---
+
+## 🚀 Tech Stack
+
+| Frontend | Backend | ML/AI |
+|----------|---------|-------|
+| React / TailwindCSS | FastAPI / Node.js | Python / Scikit-learn / OpenAI |
+| Recharts / Chart.js | PostgreSQL / MongoDB | TensorFlow / PyTorch |
+
+---
+
+## 🛠️ Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-dashboard.git
+
+# Go into the project directory
+cd your-dashboard
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
